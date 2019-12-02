@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-  border: 1px solid cadetblue;
+  border: 1px solid rgb(197, 58, 48);
   text-align: center;
   padding: 1em;
 }
