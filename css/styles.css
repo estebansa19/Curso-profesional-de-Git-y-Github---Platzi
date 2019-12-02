@@ -8,3 +8,12 @@ body {
   text-align: center;
   padding: 1em;
 }
+
+.container .container-title {
+  font-size: 14px;
+}
+
+.container #cabecera {
+  background-color: darkmagenta;
+  color: white;
+}
