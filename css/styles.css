@@ -33,3 +33,9 @@ body {
 #cabecera img {
   width: 50px;
 }
+
+#footer {
+  background-color: #797676;
+  padding: 10px;
+  color: white;
+}
