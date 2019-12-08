@@ -1,19 +1,35 @@
 body {
   text-align: center;
   font-family: Arial;
+  background-color: #313131;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
-  border: 5px solid rgb(32, 221, 42);
+  background-color: whitesmoke;
+  box-shadow: 0 0 15px #ddd;
+  height: 100vh;
+  margin: 0 auto;
   text-align: center;
-  padding: 1em;
+  width: 60%;
 }
 
-.container .container-title {
-  font-size: 14px;
+.container .container-body {
+  font-size: 18px;
+  padding: 20px
 }
 
 .container #cabecera {
   background-color: darkmagenta;
   color: white;
+}
+
+#cabecera h1, img {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+#cabecera img {
+  width: 50px;
 }
