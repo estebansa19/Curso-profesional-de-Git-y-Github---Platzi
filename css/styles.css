@@ -6,7 +6,6 @@ body {
 .container {
   border: 5px solid rgb(32, 221, 42);
   text-align: center;
-  padding: 1em;
 }
 
 .container .container-title {
@@ -15,5 +14,11 @@ body {
 
 .container #cabecera {
   background-color: darkmagenta;
+  color: white;
+}
+
+#footer {
+  background-color: #797676;
+  padding: 10px;
   color: white;
 }
