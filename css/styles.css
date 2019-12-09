@@ -9,7 +9,7 @@ body {
 .container {
   background-color: whitesmoke;
   box-shadow: 0 0 15px #ddd;
-  height: 100vh;
+  height: 100%;
   margin: 0 auto;
   text-align: center;
   width: 60%;
