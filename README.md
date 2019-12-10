@@ -8,3 +8,4 @@
 * Buenas prácticas de Git y Github
 * Creado por el increíble Platzi team
 * Incluye ejemplos para cada uno de los SO
+* Disponible para cualquiera
