@@ -6,3 +6,4 @@
 * Comandos de Git
 * Flujos de trabajo
 * Buenas prácticas de Git y Github
+* Creado por el increíble Platzi team
